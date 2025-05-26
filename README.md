@@ -4,8 +4,7 @@
 
 ## Overview
 
-This is a full-stack MERN (MongoDB, Express, React, Node.js) authentication system. It includes user registration, login, protected routes, and logout, using JWT-based authentication and secure HTTP-only cookies. The backend is built with Express and MongoDB, while the frontend uses React, Redux Toolkit, and Tailwind CSS.
-It follows modern best practices for handling authentication securely on both client and server sides. The project is structured for scalability and can serve as a solid foundation for any MERN-based application.
+This is a full-stack MERN (MongoDB, Express, React, Node.js) authentication system. It includes user registration, login, protected routes, and logout, using JWT-based authentication and secure HTTP-only cookies. The backend is built with Express and MongoDB, while the frontend uses React, Redux Toolkit, and Tailwind CSS. It follows best practices for handling authentication securely on both client and server sides. The project is structured for scalability and can serve as a solid foundation for any MERN-based application.
 
 ## Features
 
@@ -63,12 +62,12 @@ This project is built using the following technologies:
 ## Project Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d16d49f9-cdd2-4677-8f81-e84735580b64" alt="Screenshot 1" width="45%" />
-  <img src="https://github.com/user-attachments/assets/ef3b372c-3f4a-4704-b315-d0ea6415e6f3" alt="Screenshot 2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/2709d59e-523a-498e-a8b9-187bfaba3470" alt="Screenshot 1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/f69f5443-07d3-4820-a38c-4449f8c6ea98" alt="Screenshot 2" width="45%" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a9318bc7-d95f-41f3-b51c-f03080b47170" alt="Screenshot 3" width="45%" />
-  <img src="https://github.com/user-attachments/assets/b0b1488a-6e8a-4423-a57a-6c7e32c18883" alt="Screenshot 4" width="45%" />
+  <img src="https://github.com/user-attachments/assets/f2c77a7a-2b76-4907-aa22-26a73ebba25b" alt="Screenshot 3" width="45%" />
+  <img src="https://github.com/user-attachments/assets/df80c58f-0e8d-479b-a2b9-2710101f15ed" alt="Screenshot 4" width="45%" />
 </p>
 
 
