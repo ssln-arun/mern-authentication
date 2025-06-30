@@ -119,8 +119,8 @@ Ensure you have the following installed:
    
     ```bash
     "scripts": {
-        "start": "node server.js",
-        "server": "nodemon server.js"
+      "start": "node server.js",
+      "server": "nodemon server.js"
     }
     ```
 
@@ -173,10 +173,10 @@ To run both servers concurrently during development:
 
     ```bash
     "scripts": {
-        "start": "node backend/server.js",
-        "server": "nodemon backend/server.js",
-        "client": "npm run dev --prefix frontend",
-        "dev": "concurrently \"npm run server\" \"npm start --prefix frontend\""
+      "start": "node backend/server.js",
+      "server": "nodemon backend/server.js",
+      "client": "npm run dev --prefix frontend",
+      "dev": "concurrently \"npm run server\" \"npm start --prefix frontend\""
     }
     ```
 4. Start both with:
