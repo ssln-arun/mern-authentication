@@ -173,7 +173,10 @@ To run both servers concurrently during development:
 
     ```bash
     "scripts": {
-    "dev": "concurrently \"npm run dev --prefix backend\" \"npm start --prefix frontend\""
+        "start": "node backend/server.js",
+        "server": "nodemon backend/server.js",
+        "client": "npm run dev --prefix frontend",
+        "dev": "concurrently \"npm run server\" \"npm start --prefix frontend\""
     }
     ```
 4. Start both with:
