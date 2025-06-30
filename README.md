@@ -119,8 +119,8 @@ Ensure you have the following installed:
    
     ```bash
     "scripts": {
-    "start": "node server.js",
-    "server": "nodemon server.js"
+        "start": "node server.js",
+        "server": "nodemon server.js"
     }
     ```
 
